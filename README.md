@@ -31,4 +31,5 @@
 
 # Known limitations or suggestions for improvement.
 **Limitations** is we have to manully create a SQL query for the user understanding and user have to enter same query for there desired results.
+
 **suggestions for improvement** is we can add more types of detailed query for the better response to the users questions or we can use some AI APIs in the project.
